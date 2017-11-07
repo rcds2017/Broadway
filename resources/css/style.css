@@ -13,6 +13,7 @@ h1 {
 li {
   font-size: 18px;
   color: white;
+  display: block;
 }
 h2 {
   font-size: 32px;
@@ -34,4 +35,11 @@ footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+}
+h6 {
+  display: inline;
+}
+footer nav {
+  display: inline;
 }
